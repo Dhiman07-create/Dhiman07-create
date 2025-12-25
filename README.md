@@ -77,7 +77,7 @@ with modern CI pipelines and mirror real-world production workflows.
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/dhiman-dasgupta-aa3b21197/
+- 💼 LinkedIn: https://www.linkedin.com/in/dhiman-dasgupta/
 - 📧 Email: dasguptadhiman5@gmail.com
 
 ---
